@@ -1,0 +1,4 @@
+Ask Mr. Mowatt
+A program that can converse with me in French on a basic level, i.e. greetings and small talk. This journal will be a documentation of what I am learning and new features I will be adding to this rough draft of a program!
+
+GOAL: Ultimately, my end goal is to have a knowledgable enough program that can have intelligent conversations with me in French.
