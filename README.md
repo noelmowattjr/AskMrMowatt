@@ -1,2 +1,2 @@
 # AskMrMowatt
-A program that can converse with you in French
+A photo recognition app that identifies objects in real time photos, but identifies them in French.
