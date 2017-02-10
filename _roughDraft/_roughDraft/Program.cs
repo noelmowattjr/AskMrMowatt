@@ -16,6 +16,7 @@ namespace _roughDraft
             Console.Write("Hi, what is your name: ");
             string name = Console.ReadLine();
 
+            //--Greet user
             string greetings = timeOfDay(name);
             Console.WriteLine(greetings);
         }
